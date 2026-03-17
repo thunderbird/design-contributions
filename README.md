@@ -3,12 +3,8 @@ Welcome to the Thunderbird Design Hub! This is a central place for designers who
 
 ## Bolt: the Thunderbird design system
 We use a shared component system to ensure visual consistency across our platforms.
-
-<div align="center">
-  [![Bolt Design System|32x32](https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg)](https://bolt.thunderbird.net/))
-</div>
-
-[Read about contributing to the Bolt design system here](https://bolt.thunderbird.net/8b179dbfd/p/20450a-contributing).
+* [Bolt Design System](https://bolt.thunderbird.net/)
+* [Read about contributing to the Bolt design system here](https://bolt.thunderbird.net/8b179dbfd/p/20450a-contributing).
 
 ## How to get started
 1. **Take a look at Bolt.** Start with the [Bolt foundations](https://bolt.thunderbird.net/8b179dbfd/p/41514d-foundations) to understand our design principles, color palettes, typography, icons, layout, and design tokens.
